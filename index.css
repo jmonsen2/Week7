@@ -1,0 +1,131 @@
+body {
+    background-color: lightblue;
+}
+
+.heading {
+    text-align: center;
+    font-size: 40px;
+}
+
+.menu {
+    text-align: center;
+    border: solid 5px white;
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 25px;
+}
+
+.new {
+    font-size: 25px;
+}
+
+.first {
+    font-size: 20px;
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+    border: 3px solid black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    background-color: white;
+    box-shadow: 10px 10px #4682b4;
+    margin-right: 20px;
+}
+
+li:hover {
+    background-color: gray;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 200px;
+    border: 5px solid white;
+    background-color: white;
+    border-radius: 30px;
+    width: 150px;
+    margin-left: 625px;
+    box-shadow: 10px 10px #4682b4;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    background-color: white;
+    box-shadow: 10px 10px #4682b4;
+    border-radius: 30px;
+}
+
+img:hover {
+   background-color: #fff0f5;
+}
+
+.description {
+    text-align: center;
+    font-size: 25px;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 30px;
+    border: 2px solid white;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 10px 10px #4682b4;
+}
+
+th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: lightskyblue;
+    box-shadow: 5px 5px gray;
+}
+
+.title {
+
+}
+
+.explain {
+    font-size: 20px;
+    margin-top: 40px;
+    border: 2px solid white;
+    border-radius: 30px;
+    box-shadow: 10px 10px #4682b4;
+    width: 600px;
+    margin-left: 390px;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    background-color: white;
+}
+
+input {
+    background-color: gray;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1;
+}
